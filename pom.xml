@@ -139,7 +139,7 @@
     <jersey.version>2.34</jersey.version>
     <jetty.version>9.4.46.v20220331</jetty.version>
     <junit.version>4.13.1</junit.version>
-    <log4j.version>2.17.1</log4j.version>
+    <log4j.version>2.20.0</log4j.version>
     <maven.version>3.3.9</maven.version>
     <metrics.version>4.1.11</metrics.version>
     <mockito.version>3.4.4</mockito.version>
