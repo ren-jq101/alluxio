@@ -123,7 +123,7 @@
 
   <properties>
     <argLine/>
-    <apache.curator.version>4.2.0</apache.curator.version>
+    <apache.curator.version>5.6.0</apache.curator.version>
     <aws.amazonaws.version>1.12.442</aws.amazonaws.version>
     <build.path>build</build.path>
     <catalyst.version>1.2.1</catalyst.version>
