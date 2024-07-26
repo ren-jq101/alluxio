@@ -148,11 +148,11 @@
     <powermock.version>2.0.7</powermock.version>
     <prometheus.version>0.8.0</prometheus.version>
     <guava.version>31.0.1-jre</guava.version>
-    <parquet.version>1.11.0</parquet.version>
+    <parquet.version>1.14.0</parquet.version>
     <protobuf.version>3.19.2</protobuf.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <slf4j.version>1.7.30</slf4j.version>
-    <jackson.version>2.13.3</jackson.version>
+    <jackson.version>2.15.0</jackson.version>
     <hadoop-cos.version>3.1.0-5.8.5</hadoop-cos.version>
     <cos_api.version>5.6.19</cos_api.version>
     <surefire.forkCount>2</surefire.forkCount>
