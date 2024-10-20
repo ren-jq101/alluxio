@@ -124,7 +124,7 @@
   <properties>
     <argLine/>
     <apache.curator.version>4.2.0</apache.curator.version>
-    <aws.amazonaws.version>1.12.442</aws.amazonaws.version>
+    <aws.amazonaws.version>1.12.776</aws.amazonaws.version>
     <build.path>build</build.path>
     <catalyst.version>1.2.1</catalyst.version>
     <glusterfs-hadoop.version>2.3.13</glusterfs-hadoop.version>
@@ -137,7 +137,7 @@
     <java.version>1.8</java.version>
     <jaxb.version>2.3.3</jaxb.version>
     <jersey.version>2.34</jersey.version>
-    <jetty.version>9.4.46.v20220331</jetty.version>
+    <jetty.version>9.4.56.v20240826</jetty.version>
     <junit.version>4.13.1</junit.version>
     <log4j.version>2.17.1</log4j.version>
     <maven.version>3.3.9</maven.version>
