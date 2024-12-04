@@ -25,7 +25,7 @@
     <!-- The following paths need to be defined here as well as in the parent pom so that mvn can -->
     <!-- run properly from sub-project directories -->
     <build.path>${project.parent.parent.basedir}/build</build.path>
-    <ufs.ozone.version>1.2.1</ufs.ozone.version>
+    <ufs.ozone.version>1.4.1</ufs.ozone.version>
     <shading.prefix>alluxio.shaded.hdfs</shading.prefix>
     <ozone.metrics.version>3.2.5</ozone.metrics.version>
   </properties>
@@ -145,7 +145,7 @@
                 </relocation>
               </relocations>
               <transformers>
-                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer" />
+                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
               </transformers>
               <artifactSet>
                 <excludes>
